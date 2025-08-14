@@ -61,3 +61,12 @@ Total Structure
 
 ![Total Structure](https://github.com/HS-Donguk/IoT-CommunicationSystem-Project/assets/145684303/a95204b6-f86a-4c67-a1e8-8d6aab22b9dc)
 
+---
+
+## 시스템 시연 영상
+
+[불꽃센서로 인해 물 자동 분사되는 영상](https://www.youtube.com/watch?v=tGuDu_nD8B4)
+
+[가스센서로 인해 물 자동 분사되는 영상](https://www.youtube.com/watch?v=M8j3APLQdoY)
+
+---
