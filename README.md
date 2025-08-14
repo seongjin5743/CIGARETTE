@@ -12,7 +12,7 @@ CIGARETTE는 불꽃·이산화탄소 센서를 활용하여 초기 화재 징후
   - 화재 감지 시 릴레이를 통해 자동 소화 장치 작동
 
 - **원거리 데이터 전송**
-  - LoRa SX1278 모듈을 활용하여 센서 데이터를 원거리 게이트웨이로 전송
+  - LoRa 모듈을 활용하여 센서 데이터를 원거리 게이트웨이로 전송
   - 저전력, 광역 통신 환경 구현
   - 산불 감시 등 확장 가능
 
@@ -27,7 +27,7 @@ CIGARETTE는 불꽃·이산화탄소 센서를 활용하여 초기 화재 징후
 
 - **Embedded Platform:** Arduino UNO / Mega  
 - **Sensors:** 불꽃 감지 센서, 일산화탄소 감지 센서, 물수위 센서  
-- **Communication Module:** LoRa SX1278  
+- **Communication Module:** LoRa  
 - **Database / Visualization:** ThingSpeak  
 
 ---
